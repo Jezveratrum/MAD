@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\bin\Debug\EmpresasCyan-MAD.exe.config
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\bin\Debug\EmpresasCyan-MAD.exe
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\bin\Debug\EmpresasCyan-MAD.pdb
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\bin\Debug\EmpresasCyan-MAD.xml
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\bin\Debug\aa-ER\EmpresasCyan-MAD.resources.dll
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan-MAD.vbprojAssemblyReference.cache
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_PANTALLAPRINCIPAL.resources
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.Resources.resources
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_PANTALLAPRINCIPAL.aa-ER.resources
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan-MAD.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan-MAD.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\aa-ER\EmpresasCyan-MAD.resources.dll
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan-MAD.exe
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan-MAD.xml
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan-MAD.pdb
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.BIENVENIDA.resources
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.INICIO_DE_SESION.resources
