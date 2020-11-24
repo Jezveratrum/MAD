@@ -73,29 +73,47 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="VREGISTRO-EMPRESA.Designer.vb">
-      <DependentUpon>VREGISTRO-EMPRESA.vb</DependentUpon>
+    <Compile Include="VREGCON.Designer.vb">
+      <DependentUpon>VREGCON.vb</DependentUpon>
     </Compile>
-    <Compile Include="VREGISTRO-EMPRESA.vb">
+    <Compile Include="VREGCON.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="VBIENVENIDA.Designer.vb">
-      <DependentUpon>VBIENVENIDA.vb</DependentUpon>
+    <Compile Include="VREGDEP.Designer.vb">
+      <DependentUpon>VREGDEP.vb</DependentUpon>
     </Compile>
-    <Compile Include="VBIENVENIDA.vb">
+    <Compile Include="VREGDEP.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="VINICIO.vb">
+    <Compile Include="VREGPUE.Designer.vb">
+      <DependentUpon>VREGPUE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VREGPUE.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="VINICIO.Designer.vb">
-      <DependentUpon>VINICIO.vb</DependentUpon>
+    <Compile Include="VREGEMPRESA.Designer.vb">
+      <DependentUpon>VREGEMPRESA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VREGEMPRESA.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="VINICIO-DE-SESION.Designer.vb">
-      <DependentUpon>VINICIO-DE-SESION.vb</DependentUpon>
+    <Compile Include="VLOGO.Designer.vb">
+      <DependentUpon>VLOGO.vb</DependentUpon>
     </Compile>
-    <Compile Include="VINICIO-DE-SESION.vb">
+    <Compile Include="VLOGO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VPRINCIPAL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VPRINCIPAL.Designer.vb">
+      <DependentUpon>VPRINCIPAL.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VINISES.Designer.vb">
+      <DependentUpon>VINISES.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VINISES.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -113,25 +131,46 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="VREGISTRO-EMPLEADO.Designer.vb">
-      <DependentUpon>VREGISTRO-EMPLEADO.vb</DependentUpon>
+    <Compile Include="VREGEMPLEADO.Designer.vb">
+      <DependentUpon>VREGEMPLEADO.vb</DependentUpon>
     </Compile>
-    <Compile Include="VREGISTRO-EMPLEADO.vb">
+    <Compile Include="VREGEMPLEADO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VREGPERDED.Designer.vb">
+      <DependentUpon>VREGPERDED.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VREGPERDED.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VUSUARIOX.Designer.vb">
+      <DependentUpon>VUSUARIOX.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VUSUARIOX.vb">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="VBIENVENIDA.resx">
-      <DependentUpon>VBIENVENIDA.vb</DependentUpon>
+    <EmbeddedResource Include="VREGCON.resx">
+      <DependentUpon>VREGCON.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="VINICIO.aa-ER.resx">
-      <DependentUpon>VINICIO.vb</DependentUpon>
+    <EmbeddedResource Include="VREGDEP.resx">
+      <DependentUpon>VREGDEP.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="VINICIO.resx">
-      <DependentUpon>VINICIO.vb</DependentUpon>
+    <EmbeddedResource Include="VREGPUE.resx">
+      <DependentUpon>VREGPUE.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="VINICIO-DE-SESION.resx">
-      <DependentUpon>VINICIO-DE-SESION.vb</DependentUpon>
+    <EmbeddedResource Include="VLOGO.resx">
+      <DependentUpon>VLOGO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VPRINCIPAL.aa-ER.resx">
+      <DependentUpon>VPRINCIPAL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VPRINCIPAL.resx">
+      <DependentUpon>VPRINCIPAL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VINISES.resx">
+      <DependentUpon>VINISES.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
@@ -139,11 +178,17 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="VREGISTRO-EMPLEADO.resx">
-      <DependentUpon>VREGISTRO-EMPLEADO.vb</DependentUpon>
+    <EmbeddedResource Include="VREGEMPLEADO.resx">
+      <DependentUpon>VREGEMPLEADO.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="VREGISTRO-EMPRESA.resx">
-      <DependentUpon>VREGISTRO-EMPRESA.vb</DependentUpon>
+    <EmbeddedResource Include="VREGEMPRESA.resx">
+      <DependentUpon>VREGEMPRESA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VREGPERDED.resx">
+      <DependentUpon>VREGPERDED.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VUSUARIOX.resx">
+      <DependentUpon>VUSUARIOX.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
@@ -156,7 +201,9 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\diagramaNomina.png" />
@@ -166,6 +213,72 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\EmpresasCyan-image2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo Degradado Naranja_ Estilo Moderno.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondito.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo Degradado Naranja_ Estilo Moderno1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d05c2d5fb8461af7c7548f5be54d867e.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\F4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\F41.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ICONUSER.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SEARCH-ICON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SEARCH-ICON2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SEARCH-ICON3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\si.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EmpresasCyan-image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FONDITOvOLTEADO.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

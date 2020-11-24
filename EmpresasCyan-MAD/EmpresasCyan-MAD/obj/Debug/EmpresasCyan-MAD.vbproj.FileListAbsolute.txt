@@ -4,14 +4,61 @@ C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\
 C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\bin\Debug\EmpresasCyan-MAD.xml
 C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\bin\Debug\aa-ER\EmpresasCyan-MAD.resources.dll
 C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan-MAD.vbprojAssemblyReference.cache
-C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_PANTALLAPRINCIPAL.resources
 C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.Resources.resources
-C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_PANTALLAPRINCIPAL.aa-ER.resources
 C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan-MAD.vbproj.GenerateResource.cache
 C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan-MAD.vbproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\aa-ER\EmpresasCyan-MAD.resources.dll
 C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan-MAD.exe
 C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan-MAD.xml
 C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan-MAD.pdb
-C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.BIENVENIDA.resources
-C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.INICIO_DE_SESION.resources
+C:\Users\USER\Desktop\EmpresasCyan-MAD\EmpresasCyan-MAD\bin\Debug\EmpresasCyan-MAD.exe.config
+C:\Users\USER\Desktop\EmpresasCyan-MAD\EmpresasCyan-MAD\bin\Debug\EmpresasCyan-MAD.exe
+C:\Users\USER\Desktop\EmpresasCyan-MAD\EmpresasCyan-MAD\bin\Debug\EmpresasCyan-MAD.pdb
+C:\Users\USER\Desktop\EmpresasCyan-MAD\EmpresasCyan-MAD\bin\Debug\EmpresasCyan-MAD.xml
+C:\Users\USER\Desktop\EmpresasCyan-MAD\EmpresasCyan-MAD\bin\Debug\aa-ER\EmpresasCyan-MAD.resources.dll
+C:\Users\USER\Desktop\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan-MAD.vbprojAssemblyReference.cache
+C:\Users\USER\Desktop\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VREGDEP.resources
+C:\Users\USER\Desktop\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VREGINC.resources
+C:\Users\USER\Desktop\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VREGPUE.resources
+C:\Users\USER\Desktop\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VLOGO.resources
+C:\Users\USER\Desktop\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VPRINCIPAL.resources
+C:\Users\USER\Desktop\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VINISES.resources
+C:\Users\USER\Desktop\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.Resources.resources
+C:\Users\USER\Desktop\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VREGEMPLEADO.resources
+C:\Users\USER\Desktop\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VREGEMPRESA.resources
+C:\Users\USER\Desktop\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VUSUARIOX.resources
+C:\Users\USER\Desktop\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VPRINCIPAL.aa-ER.resources
+C:\Users\USER\Desktop\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan-MAD.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan-MAD.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\aa-ER\EmpresasCyan-MAD.resources.dll
+C:\Users\USER\Desktop\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan-MAD.exe
+C:\Users\USER\Desktop\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan-MAD.xml
+C:\Users\USER\Desktop\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan-MAD.pdb
+C:\Users\USER\Downloads\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan-MAD.vbprojAssemblyReference.cache
+C:\Users\USER\Downloads\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VREGDEP.resources
+C:\Users\USER\Downloads\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VREGINC.resources
+C:\Users\USER\Downloads\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VREGPUE.resources
+C:\Users\USER\Downloads\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VLOGO.resources
+C:\Users\USER\Downloads\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VPRINCIPAL.resources
+C:\Users\USER\Downloads\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VINISES.resources
+C:\Users\USER\Downloads\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.Resources.resources
+C:\Users\USER\Downloads\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VREGEMPLEADO.resources
+C:\Users\USER\Downloads\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VREGEMPRESA.resources
+C:\Users\USER\Downloads\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VUSUARIOX.resources
+C:\Users\USER\Downloads\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VPRINCIPAL.aa-ER.resources
+C:\Users\USER\Downloads\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan-MAD.vbproj.GenerateResource.cache
+C:\Users\USER\Downloads\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan-MAD.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan-MAD.exe
+C:\Users\USER\Downloads\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan-MAD.xml
+C:\Users\USER\Downloads\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan-MAD.pdb
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VREGDEP.resources
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VREGPUE.resources
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VLOGO.resources
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VPRINCIPAL.resources
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VINISES.resources
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VREGEMPLEADO.resources
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VREGEMPRESA.resources
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VUSUARIOX.resources
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VPRINCIPAL.aa-ER.resources
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VREGPERDED.resources
+C:\Users\USER\Desktop\sexto\03 - MAD\Proyecto\EmpresasCyan-MAD\EmpresasCyan-MAD\obj\Debug\EmpresasCyan_MAD.ID_VREGCON.resources

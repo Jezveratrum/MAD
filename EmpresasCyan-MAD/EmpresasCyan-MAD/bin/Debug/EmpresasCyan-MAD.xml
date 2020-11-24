@@ -22,6 +22,16 @@ EmpresasCyan-MAD
   búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
 </summary>
 </member>
+<member name="P:EmpresasCyan_MAD.My.Resources.Resources.d05c2d5fb8461af7c7548f5be54d867e">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EmpresasCyan_MAD.My.Resources.Resources.descarga">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:EmpresasCyan_MAD.My.Resources.Resources.diagramaNomina">
 <summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
@@ -32,7 +42,107 @@ EmpresasCyan-MAD
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:EmpresasCyan_MAD.My.Resources.Resources.EmpresasCyan_image1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:EmpresasCyan_MAD.My.Resources.Resources.EmpresasCyan_image2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EmpresasCyan_MAD.My.Resources.Resources.f2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EmpresasCyan_MAD.My.Resources.Resources.f3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EmpresasCyan_MAD.My.Resources.Resources.F4">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EmpresasCyan_MAD.My.Resources.Resources.F41">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EmpresasCyan_MAD.My.Resources.Resources.fondito">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EmpresasCyan_MAD.My.Resources.Resources.FONDITOvOLTEADO">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EmpresasCyan_MAD.My.Resources.Resources.fondo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EmpresasCyan_MAD.My.Resources.Resources.fondo_1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EmpresasCyan_MAD.My.Resources.Resources.fondo_2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EmpresasCyan_MAD.My.Resources.Resources.Fondo_Degradado_Naranja__Estilo_Moderno">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EmpresasCyan_MAD.My.Resources.Resources.Fondo_Degradado_Naranja__Estilo_Moderno1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EmpresasCyan_MAD.My.Resources.Resources.fondo1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EmpresasCyan_MAD.My.Resources.Resources.fondo2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EmpresasCyan_MAD.My.Resources.Resources.ICONUSER">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EmpresasCyan_MAD.My.Resources.Resources.LOGO">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EmpresasCyan_MAD.My.Resources.Resources.SEARCH_ICON">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EmpresasCyan_MAD.My.Resources.Resources.SEARCH_ICON2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EmpresasCyan_MAD.My.Resources.Resources.SEARCH_ICON3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EmpresasCyan_MAD.My.Resources.Resources.si">
 <summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
